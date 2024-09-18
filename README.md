@@ -124,7 +124,7 @@ El desarrollo de Spotify implicó el uso de una variedad de tecnologías y herra
 
 ### Personas Contribuyentes
 
-Este proyecto ha sido posible gracias a las contribuciones de diversas personas que aportaron su tiempo y conocimientos para mejorarlo continuamente:
+Este proyecto ha sido posible gracias a las contribuciones de diversas personas que aportaron su tiempo y conocimientos para mejorarlo continuamente algunos cargos importantes son:
 
 <ul>
   <li>
@@ -156,6 +156,91 @@ Este proyecto ha sido posible gracias a las contribuciones de diversas personas 
     </ul>
   </li>
 </ul>
+<a href="/anuraghazra/github-readme-stats/graphs/contributors" data-view-component="true" class="Link--primary no-underline Link d-flex flex-items-center">
+    Contribuidores
+      <span title="278" data-view-component="true" class="Counter ml-1">278</span>
+</a>
+"Contribuidores"
+<span title="278" data-view-component="true" class="Counter ml-1">278</span>
+</a>
+<ul class="list-style-none d-flex flex-wrap mb-n2">
+    <li class="mb-2 mr-2">
+      <a href="https://github.com/qwerty541" class="" data-hovercard-type="user" data-hovercard-url="/users/qwerty541/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self">
+        <img src="https://avatars.githubusercontent.com/u/53787217?s=64&amp;v=4" alt="@qwerty541" size="32" height="32" width="32" data-view-component="true" class="avatar circle">
+      </a>
+    </li>
+    <li class="mb-2 mr-2">
+      <a href="https://github.com/anuraghazra" class="" data-hovercard-type="user" data-hovercard-url="/users/anuraghazra/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self">
+        <img src="https://avatars.githubusercontent.com/u/35374649?s=64&amp;v=4" alt="@anuraghazra" size="32" height="32" width="32" data-view-component="true" class="avatar circle">
+      </a>
+    </li>
+    <li class="mb-2 mr-2">
+      <a href="https://github.com/apps/dependabot" class="">
+        <img src="https://avatars.githubusercontent.com/in/29110?s=64&amp;v=4" alt="@dependabot[bot]" size="32" height="32" width="32" data-view-component="true" class="avatar">
+      </a>
+    </li>
+    <li class="mb-2 mr-2">
+      <a href="https://github.com/rickstaa" class="" data-hovercard-type="user" data-hovercard-url="/users/rickstaa/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self">
+        <img src="https://avatars.githubusercontent.com/u/17570430?s=64&amp;v=4" alt="@rickstaa" size="32" height="32" width="32" data-view-component="true" class="avatar circle">
+      </a>
+    </li>
+    <li class="mb-2 mr-2">
+      <a href="https://github.com/nathanchu" class="" data-hovercard-type="user" data-hovercard-url="/users/nathanchu/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self">
+        <img src="https://avatars.githubusercontent.com/u/63111210?s=64&amp;v=4" alt="@nathanchu" size="32" height="32" width="32" data-view-component="true" class="avatar circle">
+      </a>
+    </li>
+    <li class="mb-2 mr-2">
+      <a href="https://github.com/Zo-Bro-23" class="" data-hovercard-type="user" data-hovercard-url="/users/Zo-Bro-23/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self">
+        <img src="https://avatars.githubusercontent.com/u/62234360?s=64&amp;v=4" alt="@Zo-Bro-23" size="32" height="32" width="32" data-view-component="true" class="avatar circle">
+      </a>
+    </li>
+    <li class="mb-2 mr-2">
+      <a href="https://github.com/apps/github-actions" class="">
+        <img src="https://avatars.githubusercontent.com/in/15368?s=64&amp;v=4" alt="@github-actions[bot]" size="32" height="32" width="32" data-view-component="true" class="avatar">
+      </a>
+    </li>
+    <li class="mb-2 mr-2">
+      <a href="https://github.com/omidnikrah" class="" data-hovercard-type="user" data-hovercard-url="/users/omidnikrah/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self">
+        <img src="https://avatars.githubusercontent.com/u/8777948?s=64&amp;v=4" alt="@omidnikrah" size="32" height="32" width="32" data-view-component="true" class="avatar circle">
+      </a>
+    </li>
+    <li class="mb-2 mr-2">
+      <a href="https://github.com/nombrekeff" class="" data-hovercard-type="user" data-hovercard-url="/users/nombrekeff/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self">
+        <img src="https://avatars.githubusercontent.com/u/17043260?s=64&amp;v=4" alt="@nombrekeff" size="32" height="32" width="32" data-view-component="true" class="avatar circle">
+      </a>
+    </li>
+    <li class="mb-2 mr-2">
+      <a href="https://github.com/florianbussmann" class="" data-hovercard-type="user" data-hovercard-url="/users/florianbussmann/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self">
+        <img src="https://avatars.githubusercontent.com/u/3610244?s=64&amp;v=4" alt="@florianbussmann" size="32" height="32" width="32" data-view-component="true" class="avatar circle">
+      </a>
+    </li>
+    <li class="mb-2 mr-2">
+      <a href="https://github.com/JounQin" class="" data-hovercard-type="user" data-hovercard-url="/users/JounQin/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self">
+        <img src="https://avatars.githubusercontent.com/u/8336744?s=64&amp;v=4" alt="@JounQin" size="32" height="32" width="32" data-view-component="true" class="avatar circle">
+      </a>
+    </li>
+    <li class="mb-2 mr-2">
+      <a href="https://github.com/lrusso96" class="" data-hovercard-type="user" data-hovercard-url="/users/lrusso96/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self">
+        <img src="https://avatars.githubusercontent.com/u/26090639?s=64&amp;v=4" alt="@lrusso96" size="32" height="32" width="32" data-view-component="true" class="avatar circle">
+      </a>
+    </li>
+    <li class="mb-2 mr-2">
+      <a href="https://github.com/oscard0m" class="" data-hovercard-type="user" data-hovercard-url="/users/oscard0m/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self">
+        <img src="https://avatars.githubusercontent.com/u/2574275?s=64&amp;v=4" alt="@oscard0m" size="32" height="32" width="32" data-view-component="true" class="avatar circle">
+      </a>
+    </li>
+    <li class="mb-2 mr-2">
+      <a href="https://github.com/fabianocouto" class="" data-hovercard-type="user" data-hovercard-url="/users/fabianocouto/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self">
+        <img src="https://avatars.githubusercontent.com/u/3431285?s=64&amp;v=4" alt="@fabianocouto" size="32" height="32" width="32" data-view-component="true" class="avatar circle">
+      </a>
+    </li>
+</ul>
+<li class="mb-2 mr-2">
+      <a href="https://github.com/JounQin" class="" data-hovercard-type="user" data-hovercard-url="/users/JounQin/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self">
+        <img src="https://avatars.githubusercontent.com/u/8336744?s=64&amp;v=4" alt="@JounQin" size="32" height="32" width="32" data-view-component="true" class="avatar circle">
+      </a>
+    </li>
+   
 
 
 
