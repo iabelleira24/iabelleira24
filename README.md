@@ -61,5 +61,66 @@ Para ver una demostración completa en video, puedes visitar <a href="https://yo
 <h2>Acceso al proyecto</h2>
 <h4>Puedes acceder a la plataforma Spotify a través de los siguientes medios:
 
-Sitio Web Oficial:<a href="https://www.spotify.com/" style="color: green;"> Spotify Web </a>
-La versión web te permite disfrutar de todas las funcionalidades de Spotify directamente desde tu navegador, sin necesidad de instalar software adicional.</h4>
+Sitio Web Oficial:<a href="https://www.spotify.com/" style="color: blue;"> Spotify Web </a> </h4> <br>
+<h4>La versión web te permite disfrutar de todas las funcionalidades de Spotify directamente desde tu navegador, sin necesidad de instalar software adicional.</h4> <br>
+<h4>Aplicaciones Móviles:
+iOS: Descarga la aplicación desde la <a href="https://apps.apple.com/app/spotify" style="color: blue;"> App Store </a>.
+Android: Descarga la aplicación desde <a href="https://play.google.com/store/games?device=windows&pli=1" style="color: blue;"> Google play </a>.
+</h4> <br>
+<h4>Aplicación de Escritorio:
+Descarga la aplicación para Windows o macOS desde la <a href="https://www.spotify.com/es/download/windows/" style="color: blue;">página de descargas.</a> </h4> <<br>
+<h4>Cuenta de Usuario
+Para acceder al proyecto, necesitarás crear una cuenta de usuario. Puedes registrarte gratuitamente o iniciar sesión si ya tienes una cuenta:
+
+Registro: Crea una nueva cuenta en el sitio web de Spotify o a través de las aplicaciones móviles y de escritorio.
+Inicio de Sesión: Si ya tienes una cuenta, simplemente inicia sesión con tus credenciales en cualquiera de las plataformas disponibles.</h4>
+
+## Tecnologías Utilizadas
+
+El desarrollo de Spotify implicó el uso de una variedad de tecnologías y herramientas para garantizar una experiencia de usuario fluida y un rendimiento óptimo. A continuación se detallan las principales tecnologías utilizadas:
+
+### Frontend
+<ul>
+  <li><strong>React</strong>: Biblioteca JavaScript utilizada para construir una interfaz de usuario dinámica y reactiva.</li>
+  <li><strong>Redux</strong>: Para el manejo del estado global de la aplicación, facilitando la comunicación entre componentes.</li>
+  <li><strong>HTML5 & CSS3</strong>: Estructuración y estilización de la interfaz, siguiendo las últimas tendencias en diseño web.</li>
+  <li><strong>Sass</strong>: Preprocesador CSS que permitió escribir estilos más eficientes y mantenibles.</li>
+  <li><strong>Webpack</strong>: Herramienta de empaquetado de módulos utilizada para compilar y optimizar el código frontend.</li>
+</ul>
+
+### Backend
+<ul>
+  <li><strong>Node.js</strong>: Entorno de ejecución para el desarrollo del servidor, permitiendo una arquitectura de servidor eficiente y escalable.</li>
+  <li><strong>Express</strong>: Framework de Node.js utilizado para crear una API RESTful que maneja las peticiones de los clientes.</li>
+  <li><strong>Python</strong>: Utilizado para el desarrollo de los algoritmos de recomendaciones musicales basados en machine learning.</li>
+  <li><strong>Spotify Web API</strong>: Integración con la API oficial de Spotify para acceder a la biblioteca de música, datos de usuario, y funcionalidades de reproducción.</li>
+</ul>
+
+### Base de Datos
+<ul>
+  <li><strong>PostgreSQL</strong>: Base de datos relacional utilizada para almacenar la información del usuario, listas de reproducción, y otros datos estructurados.</li>
+  <li><strong>MongoDB</strong>: Base de datos NoSQL utilizada para almacenar datos relacionados con el catálogo musical y las preferencias de los usuarios.</li>
+</ul>
+
+### Autenticación y Seguridad
+<ul>
+  <li><strong>OAuth 2.0</strong>: Protocolo de autorización utilizado para autenticar a los usuarios de manera segura y permitir el acceso a sus datos de Spotify.</li>
+  <li><strong>JWT (JSON Web Tokens)</strong>: Para la gestión de sesiones y la autorización segura de los usuarios.</li>
+</ul>
+
+### DevOps y Herramientas
+<ul>
+  <li><strong>Docker</strong>: Utilizado para la creación de contenedores que facilitan la implementación y escalabilidad de la aplicación.</li>
+  <li><strong>AWS (Amazon Web Services)</strong>: Plataforma en la nube utilizada para el despliegue y almacenamiento de datos, incluyendo servicios como EC2 y S3.</li>
+  <li><strong>Git & GitHub</strong>: Control de versiones y alojamiento del código fuente.</li>
+  <li><strong>Jest</strong>: Framework de pruebas para garantizar la calidad y funcionalidad del código JavaScript.</li>
+</ul>
+
+### Reproducción y Streaming
+<ul>
+  <li><strong>HLS (HTTP Live Streaming)</strong>: Protocolo de streaming utilizado para la transmisión de audio de alta calidad.</li>
+  <li><strong>FFmpeg</strong>: Herramienta para la codificación y procesamiento de audio, garantizando la mejor calidad de reproducción en diferentes dispositivos.</li>
+</ul>
+
+
+
