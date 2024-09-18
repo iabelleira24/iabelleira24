@@ -68,7 +68,7 @@ iOS: Descarga la aplicación desde la <a href="https://apps.apple.com/app/spotif
 Android: Descarga la aplicación desde <a href="https://play.google.com/store/games?device=windows&pli=1" style="color: blue;"> Google play </a>.
 </h4> <br>
 <h4>Aplicación de Escritorio:
-Descarga la aplicación para Windows o macOS desde la <a href="https://www.spotify.com/es/download/windows/" style="color: blue;">página de descargas.</a> </h4> <<br>
+Descarga la aplicación para Windows o macOS desde la <a href="https://www.spotify.com/es/download/windows/" style="color: blue;">página de descargas.</a> </h4> <br>
 <h4>Cuenta de Usuario
 Para acceder al proyecto, necesitarás crear una cuenta de usuario. Puedes registrarte gratuitamente o iniciar sesión si ya tienes una cuenta:
 
