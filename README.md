@@ -11,21 +11,21 @@
    <img src="https://img.shields.io/badge/STATUS-EN%música-green">
    </p>
 <h2>Índice</h2> <br>
-<li>
-    <ul>Título e imagen de portada;</ul>
-    <ul>Insignias</ul>
-    <ul>Índice</ul>
-    <ul>Descripción del proyecto</ul>
-    <ul>Estado del proyecto</ul>
-    <ul>Demostración de funciones y aplicaciones;</ul>
-    <ul>Acceso al Proyecto</ul>
-    <ul>Tecnologías utilizadas;</ul>
-    <ul>Personas Contribuyentes;</ul>
-    <ul>Personas Desarrolladoras del Proyecto;</ul>
-    <ul>Licencia.</ul>
+<ul>
+    <li>Título e imagen de portada;</li>
+    <li>Insignias</li>
+    <li>Índice</li>
+    <li>Descripción del proyecto</li>
+    <li>Estado del proyecto</li>
+    <li>Demostración de funciones y aplicaciones;</li>
+    <li>Acceso al Proyecto</li>
+    <li>Tecnologías utilizadas;</li>
+    <li>Personas Contribuyentes;</li>
+    <li>Personas Desarrolladoras del Proyecto;</li>
+    <li>Licencia.</li>
 
     
-</li> <br>
+</ul> <br>
 <h2>Descripción del proyecto</h2>
 <h4>
     Spotify es una plataforma de música en streaming que desarrollé con el objetivo de revolucionar la forma en que las personas escuchan y descubren música. Esta aplicación permite a los usuarios acceder a una vasta biblioteca de canciones, crear listas de reproducción personalizadas, y disfrutar de recomendaciones musicales inteligentes, todo en un solo lugar.
