@@ -11,7 +11,7 @@
    ![Badge en música](https://img.shields.io/badge/STATUS-EN%música-green)
   <p align="left">
    <img src="https://img.shields.io/badge/STATUS-EN%música-green">
-      <h4>En este <a href="https://github.com/sindresorhus/awesome#readme"><img src="https://camo.githubusercontent.com/372dd0324c00c43f7fa4cf77b454025f7fc4150b535183817c27701d8036656e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73696e647265736f726875732f617765736f6d6540643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667" alt="Awesome" data-canonical-src="https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" style="max-width: 100%;"></a> README, se tratarán algunas aspectos de interés con respecto a la aplicación de Spotify</h4>
+      <h4>En este <a href="https://github.com/sindresorhus/awesome#readme"><img src="https://camo.githubusercontent.com/372dd0324c00c43f7fa4cf77b454025f7fc4150b535183817c27701d8036656e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73696e647265736f726875732f617765736f6d6540643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667" alt="Awesome" data-canonical-src="https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" style="max-width: 100%;"></a> README, se tratarán algunos aspectos de interés con respecto a la aplicación de Spotify</h4>
    </p>
    
 <h2>Índice 📝</h2> <br>
@@ -57,3 +57,9 @@ La función de modo offline permite a los usuarios Premium descargar sus cancion
 <h4>Integración con Redes Sociales 👍
 Spotify facilita compartir canciones y listas de reproducción en redes sociales y seguir a amigos para ver qué música están escuchando</h4>
 Para ver una demostración completa en video, puedes visitar <a href="https://youtu.be/JStkg5EehZs?feature=shared" style="color: blue;">este enlace</a> donde se muestra cómo utilizar cada función en detalle.
+<br>
+<h2>Acceso al proyecto</h2>
+<h4>Puedes acceder a la plataforma Spotify a través de los siguientes medios:
+
+Sitio Web Oficial:<a href="https://www.spotify.com/" style="color: green;"> Spotify Web </a>
+La versión web te permite disfrutar de todas las funcionalidades de Spotify directamente desde tu navegador, sin necesidad de instalar software adicional.</h4>
