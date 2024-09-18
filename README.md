@@ -121,6 +121,7 @@ El desarrollo de Spotify implicó el uso de una variedad de tecnologías y herra
   <li><strong>HLS (HTTP Live Streaming)</strong>: Protocolo de streaming utilizado para la transmisión de audio de alta calidad.</li>
   <li><strong>FFmpeg</strong>: Herramienta para la codificación y procesamiento de audio, garantizando la mejor calidad de reproducción en diferentes dispositivos.</li>
 </ul> <br>
+
 ### Personas Contribuyentes
 
 Este proyecto ha sido posible gracias a las contribuciones de diversas personas que aportaron su tiempo y conocimientos para mejorarlo continuamente:
