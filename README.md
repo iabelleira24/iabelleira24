@@ -1,4 +1,6 @@
+<div align="center", font color= "green">
 <em>Spotify</em>
+    </div>
 <div align="center">
     <img src="https://github.com/user-attachments/assets/79054cce-70bc-423a-be41-fd6de487bb76" alt="Spotify" width="800" height="400">
     
