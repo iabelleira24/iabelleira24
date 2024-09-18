@@ -25,4 +25,8 @@
     <ul>Licencia.</ul>
 
     
-</li>
+</li> <br>
+<h2>Descripción del proyecto</h2>
+<h4>
+    Spotify es una plataforma de música en streaming que desarrollé con el objetivo de revolucionar la forma en que las personas escuchan y descubren música. Esta aplicación permite a los usuarios acceder a una vasta biblioteca de canciones, crear listas de reproducción personalizadas, y disfrutar de recomendaciones musicales inteligentes, todo en un solo lugar.
+</h4>
