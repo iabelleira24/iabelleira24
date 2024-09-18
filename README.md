@@ -11,7 +11,7 @@
    ![Badge en música](https://img.shields.io/badge/STATUS-EN%música-green)
   <p align="left">
    <img src="https://img.shields.io/badge/STATUS-EN%música-green">
-      <h4>En este Awesome, se tratarán algunas aspectos de interés con respecto a la aplicación de Spotify</h4>
+      <h4>En este [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme), se tratarán algunas aspectos de interés con respecto a la aplicación de Spotify</h4>
    </p>
    
 <h2>Índice 📝</h2> <br>
