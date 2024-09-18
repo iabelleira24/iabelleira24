@@ -120,7 +120,42 @@ El desarrollo de Spotify implicó el uso de una variedad de tecnologías y herra
 <ul>
   <li><strong>HLS (HTTP Live Streaming)</strong>: Protocolo de streaming utilizado para la transmisión de audio de alta calidad.</li>
   <li><strong>FFmpeg</strong>: Herramienta para la codificación y procesamiento de audio, garantizando la mejor calidad de reproducción en diferentes dispositivos.</li>
+</ul> <br>
+## Personas Contribuyentes
+
+Este proyecto ha sido posible gracias a las contribuciones de diversas personas que aportaron su tiempo y conocimientos para mejorarlo continuamente:
+
+<ul>
+  <li>
+    <strong>Iago Abelleira</strong> - Desarrollador Backend y Frontend
+    <ul>
+      <li>Desarrolló tanto el backend utilizando Node.js y Express como el frontend con React y Redux.</li>
+      <li>GitHub: <a href="https://github.com/iagoabelleira" target="_blank">github.com/iagoabelleira</a></li>
+    </ul>
+  </li>
+  <li>
+    <strong>María García</strong> - Diseñadora UI/UX
+    <ul>
+      <li>Encargada del diseño de la interfaz de usuario y la experiencia de usuario.</li>
+      <li>Portfolio: <a href="https://mariagarcia.com" target="_blank">mariagarcia.com</a></li>
+    </ul>
+  </li>
+  <li>
+    <strong>Carlos Fernández</strong> - Especialista en DevOps
+    <ul>
+      <li>Implementó la infraestructura con Docker y AWS para el despliegue continuo.</li>
+      <li>LinkedIn: <a href="https://www.linkedin.com/in/carlosfernandez" target="_blank">linkedin.com/in/carlosfernandez</a></li>
+    </ul>
+  </li>
+  <li>
+    <strong>Lucía Gómez</strong> - Analista de Datos
+    <ul>
+      <li>Desarrolló modelos de análisis para recomendaciones personalizadas.</li>
+      <li>GitHub: <a href="https://github.com/luciagomez" target="_blank">github.com/luciagomez</a></li>
+    </ul>
+  </li>
 </ul>
+
 
 
 
