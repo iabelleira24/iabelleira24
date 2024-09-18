@@ -12,7 +12,7 @@
   <p align="left">
    <img src="https://img.shields.io/badge/STATUS-EN%música-green">
    </p>
-<h2>Índice</h2>📝 <br>
+<h2>Índice 📝</h2> <br>
 <ul>
     <li>Título e imagen de portada;</li>
     <li>Insignias</li>
