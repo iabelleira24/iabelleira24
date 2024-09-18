@@ -11,7 +11,9 @@
    ![Badge en música](https://img.shields.io/badge/STATUS-EN%música-green)
   <p align="left">
    <img src="https://img.shields.io/badge/STATUS-EN%música-green">
+      <h4>En este Awesome, se tratarán algunas aspectos de interés con respecto a la aplicación de Spotify</h4>
    </p>
+   
 <h2>Índice 📝</h2> <br>
 <ul>
     <li>Título e imagen de portada;</li>
