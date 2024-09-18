@@ -160,9 +160,7 @@ Este proyecto ha sido posible gracias a las contribuciones de diversas personas 
     Contribuidores
       <span title="278" data-view-component="true" class="Counter ml-1">278</span>
 </a>
-"Contribuidores"
-<span title="278" data-view-component="true" class="Counter ml-1">278</span>
-</a>
+
 <ul class="list-style-none d-flex flex-wrap mb-n2">
     <li class="mb-2 mr-2">
       <a href="https://github.com/qwerty541" class="" data-hovercard-type="user" data-hovercard-url="/users/qwerty541/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self">
