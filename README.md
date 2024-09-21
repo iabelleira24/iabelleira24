@@ -13,7 +13,7 @@
    ![Static Badge](https://img.shields.io/badge/descargas-50M%2Fmes-blue)
 ![Static Badge](https://img.shields.io/badge/Entretenimiento-yellow)
 ![Static Badge](https://img.shields.io/badge/Diversidad-white)
-
+<br>
 
 
 
