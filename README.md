@@ -238,6 +238,21 @@ Este proyecto ha sido posible gracias a las contribuciones de diversas personas 
         <img src="https://avatars.githubusercontent.com/u/8336744?s=64&amp;v=4" alt="@JounQin" size="32" height="32" width="32" data-view-component="true" class="avatar circle">
       </a>
     </li>
+
+    ### Licencia
+
+Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](./LICENSE) para más detalles.
+
+### Uso de la API de Spotify
+
+Este proyecto utiliza la API de Spotify para obtener datos relacionados con música y otras funcionalidades de la plataforma. Todos los derechos de los contenidos, marcas y logotipos de Spotify pertenecen a Spotify AB. Este proyecto no está afiliado, patrocinado ni respaldado por Spotify AB de ninguna manera.
+
+El uso de la API de Spotify está sujeto a los [Términos de Uso](https://developer.spotify.com/terms/) de Spotify. Asegúrate de revisar y cumplir con dichos términos si decides utilizar o modificar este proyecto.
+
+### Limitación de Responsabilidad
+
+Este software se proporciona "tal cual", sin ninguna garantía expresa o implícita. Los autores no son responsables por ningún daño o pérdida que pueda derivarse del uso de este software.
+
    
 
 
