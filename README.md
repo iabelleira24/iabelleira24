@@ -18,7 +18,7 @@
 
 
   
-      En este README, se tratarán algunos aspectos de interés con respecto a la aplicación de Spotify
+      ¡¡En este README, se tratarán algunos aspectos de interés con respecto a la aplicación de Spotify!!
    </p>
    
 <h2>Índice 📝</h2> <br>
