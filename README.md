@@ -9,6 +9,8 @@
 </div>
 
    ![Static Badge](https://img.shields.io/badge/M%C3%BAsica-green)
+   ![Static Badge](https://img.shields.io/badge/version-2.0-blue)
+
 
 
   <p align="left">
