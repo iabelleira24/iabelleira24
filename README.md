@@ -10,7 +10,7 @@
 
    ![Static Badge](https://img.shields.io/badge/M%C3%BAsica-green)
    ![Static Badge](https://img.shields.io/badge/version-2.0-blue)
-   ![Static Badge](https://img.shields.io/badge/descargas-50M%2Fmes-gray)
+   ![Static Badge](https://img.shields.io/badge/descargas-50M%2Fmes-blue)
 ![Static Badge](https://img.shields.io/badge/Entretenimiento-yellow)
 
 
