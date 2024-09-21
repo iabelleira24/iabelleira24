@@ -8,7 +8,8 @@
     
 </div>
 
-   ![Static Badge](https://img.shields.io/badge/M%C3%BAsica_badge-green)
+   ![Static Badge](https://img.shields.io/badge/M%C3%BAsica-green)
+
 
   <p align="left">
    <img src="https://img.shields.io/badge/STATUS-EN%música-green">
