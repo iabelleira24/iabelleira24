@@ -8,7 +8,8 @@
     
 </div>
 
-   ![Badge en música](https://img.shields.io/badge/STATUS-EN%música-green)
+   ![Static Badge](https://img.shields.io/badge/M%C3%BAsica_badge-green)
+
   <p align="left">
    <img src="https://img.shields.io/badge/STATUS-EN%música-green">
       <h4>En este <a href="https://github.com/sindresorhus/awesome#readme"><img src="https://camo.githubusercontent.com/372dd0324c00c43f7fa4cf77b454025f7fc4150b535183817c27701d8036656e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73696e647265736f726875732f617765736f6d6540643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667" alt="Awesome" data-canonical-src="https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" style="max-width: 100%;"></a> README, se tratarán algunos aspectos de interés con respecto a la aplicación de Spotify</h4>
@@ -237,7 +238,7 @@ Este proyecto ha sido posible gracias a las contribuciones de diversas personas 
       <a href="https://github.com/JounQin" class="" data-hovercard-type="user" data-hovercard-url="/users/JounQin/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self">
         <img src="https://avatars.githubusercontent.com/u/8336744?s=64&amp;v=4" alt="@JounQin" size="32" height="32" width="32" data-view-component="true" class="avatar circle">
       </a>
-    </li>
+    </li> <br>
 
     Licencia
 
